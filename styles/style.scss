@@ -189,6 +189,9 @@ body {
   font-weight: 400;
 }
 
+del {
+  text-decoration-thickness: 4px;
+}
 .stack {
   display: flex;
   flex-direction: column;
